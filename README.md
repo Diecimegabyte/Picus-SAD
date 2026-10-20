@@ -10,7 +10,7 @@ Iterazione 1 - Preparazione (15 ottobre - 5 novembre 2026): analisi, backlog e p
 
 | Nome | Ruolo |
 | --- | --- |
-| Matteo | [da assegnare] |
+| Matteo Navato | [da assegnare] |
 | Marco Galasso | [da assegnare] |
 | Ciro Circolo | [da assegnare] |
 | Peppe Boccia | [da assegnare] |
