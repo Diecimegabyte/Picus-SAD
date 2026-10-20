@@ -1,0 +1,21 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor e IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# File temporanei e di Office
+~$*
+*.tmp
+*.bak
+
+# Segreti e configurazioni locali
+.env
+.env.*
+*.pem
+*.key
