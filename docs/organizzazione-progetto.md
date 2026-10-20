@@ -72,7 +72,7 @@ Le viste mostrano gli stessi elementi filtrati: non si duplicano le issue.
 | Scrum Master | Facilita planning ed eventi, fa emergere e rimuove gli impedimenti (può ruotare a ogni iterazione) | [da assegnare] |
 | Team | Concorda il lavoro sostenibile, si organizza, produce e revisiona gli output (PO e SM inclusi) | Tutti e 7 i membri |
 
-Membri del gruppo (7): Matteo, Marco [cognome], Ciro Circolo, Peppe Boccia, Biagio Landi, Gagandeep Suman, Mattia Tartaglia.
+Membri del gruppo (7): Matteo, Marco Galasso, Ciro Circolo, Peppe Boccia, Biagio Landi, Gagandeep Suman, Mattia Tartaglia.
 
 Le attività si svolgono **tutti insieme** in sessioni di lavoro comuni. Per ogni attività c'è un **responsabile** che coordina e consolida il documento e un **revisore** diverso che lo verifica prima della chiusura.
 
